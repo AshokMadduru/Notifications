@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Notifications</string>
+    <string name="notification_title">Hello</string>
+    <string name="notification_desc">Hello world!</string>
 </resources>
